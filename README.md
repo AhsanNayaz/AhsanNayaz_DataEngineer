@@ -2,6 +2,10 @@
 
 This project was tasked by SteelEye, details of which can be found [here](https://github.com/steeleye/recruitment-ext/wiki/Python-Engineer-Assessment). This project is designed to download an XML file from a given link, parse through the XML data, find the first download link, donload the zip file, extract the xml form the zip file, parse it and convert it into a CSV file with specific headers. The generated CSV file is then stored in an AWS S3 bucket. The project has also been implemented as a AWS Lambda function.
 
+## Live
+
+This project has been deployed as a AWS Lambda function and can be found [here](https://o5fcvq4skj5eprjmp3q4b3rznq0pljds.lambda-url.ap-southeast-1.on.aws/)
+
 ## Requirements
 
 - Python 3.x
@@ -39,10 +43,6 @@ The following configuration can be updated in the `main.py` file:
 - `bucket_name`: AWS S3 bucket name to store the generated CSV file
 - `url`: URL of the XML file to download
 - `csv_file`: File path of the output CSV file
-
-## Live
-
-This project has been deployed as a AWS Lambda function and can be found [here](https://o5fcvq4skj5eprjmp3q4b3rznq0pljds.lambda-url.ap-southeast-1.on.aws/)
 
 ## Contributing
 
