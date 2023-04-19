@@ -4,7 +4,7 @@ This project was tasked by SteelEye, details of which can be found [here](https:
 
 ## Live
 
-This project has been deployed as a AWS Lambda function and can be found [here](https://o5fcvq4skj5eprjmp3q4b3rznq0pljds.lambda-url.ap-southeast-1.on.aws/)
+This project has been deployed as a AWS Lambda function and can be accessed [here](https://o5fcvq4skj5eprjmp3q4b3rznq0pljds.lambda-url.ap-southeast-1.on.aws/)
 
 ## Requirements
 
