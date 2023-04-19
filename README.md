@@ -23,7 +23,7 @@ This project has been deployed as a AWS Lambda function and can be found [here](
    This can be done using:
 
    ```
-   pip install requirements.txt
+   pip install -r requirements.txt
    ```
 3. Update the `main.py` file with your AWS S3 credentials (access key and secret access key) and specify the desired AWS S3 bucket name.
 4. Run the `main.py` script using Python to start the process of downloading the XML file, parsing the data, converting it into a CSV file, and storing it in the AWS S3 bucket.
