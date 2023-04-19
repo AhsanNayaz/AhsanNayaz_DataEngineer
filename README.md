@@ -1,6 +1,6 @@
 # AhsanNayaz_DataEngineer
 
-This project was tasked by SteelEye, details of which can be found [here](https://github.com/steeleye/recruitment-ext/wiki/Python-Engineer-Assessment). This project is designed to download an XML file from a given link, parse through the XML data, find the first download link, donload the zip file, extract the xml form the zip file, parse it and convert it into a CSV file with specific headers. The generated CSV file is then stored in an AWS S3 bucket. The project has also been implemented as a AWS Lambda function.
+This project was tasked by SteelEye, details of which can be found [here](https://github.com/steeleye/recruitment-ext/wiki/Python-Engineer-Assessment). This project is designed to download an XML file from a given link, parse through the XML data, find the first download link, donload the zip file, extract the xml from the zip file, parse it and convert it into a CSV file with specific headers. The generated CSV file is then stored in an AWS S3 bucket. The project has also been implemented as a AWS Lambda function.
 
 ## Live
 
