@@ -1,6 +1,6 @@
 # AhsanNayaz_DataEngineer
 
-This project is designed to download an XML file from a given link, parse through the XML data, and convert it into a CSV file with specific headers. The generated CSV file is then stored in an AWS S3 bucket. The project has alsôbeen implemented as a AWS Lambda function.
+This project is designed to download an XML file from a given link, parse through the XML data, and convert it into a CSV file with specific headers. The generated CSV file is then stored in an AWS S3 bucket. The project has also been implemented as a AWS Lambda function.
 
 ## Requirements
 
@@ -16,6 +16,10 @@ This project is designed to download an XML file from a given link, parse throug
 
 1. Clone this repository to your local machine.
 2. Install the required dependencies using `pip` or any other preferred package manager.
+   This can be done using:
+   ```
+   pip install requirements.txt
+   ```
 3. Update the `main.py` file with your AWS S3 credentials (access key and secret access key) and specify the desired AWS S3 bucket name.
 4. Run the `main.py` script using Python to start the process of downloading the XML file, parsing the data, converting it into a CSV file, and storing it in the AWS S3 bucket.
 5. The generated CSV file will be stored in the specified AWS S3 bucket upon successful execution of the `main.py` script.
