@@ -1,6 +1,6 @@
 # AhsanNayaz_DataEngineer
 
-This project is designed to download an XML file from a given link, parse through the XML data, and convert it into a CSV file with specific headers. The generated CSV file is then stored in an AWS S3 bucket.
+This project is designed to download an XML file from a given link, parse through the XML data, and convert it into a CSV file with specific headers. The generated CSV file is then stored in an AWS S3 bucket. The project has alsôbeen implemented as a AWS Lambda function.
 
 ## Requirements
 
