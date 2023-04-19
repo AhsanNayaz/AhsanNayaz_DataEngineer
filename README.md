@@ -44,6 +44,12 @@ The following configuration can be updated in the `main.py` file:
 - `url`: URL of the XML file to download
 - `csv_file`: File path of the output CSV file
 
+## Output
+![image](https://user-images.githubusercontent.com/106108308/233049571-92071584-d118-40ce-8ac6-68f5f67f9246.png)
+
 ## Contributing
 
 Contributions to this project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+
+
