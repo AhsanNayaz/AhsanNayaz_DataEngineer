@@ -33,7 +33,7 @@ The following configuration can be updated in the `main.py` file:
 
 ## Live
 
-This project has been deployed as a AWS Lambda function and can be found [here](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
+This project has been deployed as a AWS Lambda function and can be found [here](https://o5fcvq4skj5eprjmp3q4b3rznq0pljds.lambda-url.ap-southeast-1.on.aws/)
 
 ## Contributing
 
