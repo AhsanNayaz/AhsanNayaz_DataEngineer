@@ -1,5 +1,4 @@
 boto3
 lxml
-csv
 requests
-zipfile
+
